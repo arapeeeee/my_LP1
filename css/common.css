@@ -108,13 +108,13 @@ li {
 .top_inner h1 {
   font-size: 48px;
   font-weight: 700;
-  color: dimgray;
+  color: #333;
 }
 
 .top_inner p {
   font-size: 36px;
   font-weight: 700;
-  color: dimgrey;
+  color: #333;
 }
 
 .section {
